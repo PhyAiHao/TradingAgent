@@ -1,4 +1,4 @@
-# ActiveInference_Agent_Test_on_TradingBot (BUT ACTUALLY LLM AS GENERATIVE MODEL IS WAY TOO UNSTRUCTURED. ACTIVE INFERENCE ENGINE ON AGENT IS JUST A USELESS DECORATION.)
+# ActiveInference_Agent (BUT ACTUALLY LLM AS GENERATIVE MODEL IS WAY TOO UNSTRUCTURED. ACTIVE INFERENCE ENGINE ON AGENT IS JUST A USELESS DECORATION.)
 
 Automatic Quantitative Trading AI Agent empowered by local active inference engine 
 A hierarchical Bayesian trading system grounded in Karl Friston's Active Inference framework (Free Energy Principle), combining a Python port of SPM's spm_MDP_VB_X solver with LLM-driven generative model construction and live Alpaca order execution.
